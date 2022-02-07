@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+CYBER+MAMUN;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/ariyanahmedmamun"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ariyanahmedmamun&theme=monokai"></a>
+<a href="https://github.com/mamun-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mamun-404&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -72,12 +72,12 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/ariyanahmedmamun/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ariyanahmedmamun&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. NIKI GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/ariyanahmedmamun/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyanahmedmamun&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/ariyanahmedmamun/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mamun-404&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. NIKI GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/ariyanahmedmamun/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun-404&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ariyanahmedmamun&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mamun Hasan GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mamun-404&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Mamun Hasan GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -85,5 +85,5 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=ariyanahmedmamun&theme=react-dark&area=true&hide_border=true)](https://github.com/Niki404-Cyber/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=mamun-404&theme=react-dark&area=true&hide_border=true)](https://github.com/mamun-404/github-readme-activity-graph)
 
